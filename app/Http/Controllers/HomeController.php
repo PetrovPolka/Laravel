@@ -10,6 +10,6 @@ class HomeController extends Controller
 {
     public function getMainControllers()
     {
-        return view ('app');
+        return view ('masterpage');
     }
 }
